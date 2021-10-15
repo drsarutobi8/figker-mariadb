@@ -5,4 +5,4 @@ Figker's Docker Image for mariadb:latest with default configuration of collation
 > gradle docker
 
 * To push to figker/figker-mariadb
-> gradle dockerPush
+> gradle dockerPush-latest
